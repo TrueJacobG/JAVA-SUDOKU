@@ -1,5 +1,11 @@
+VSC:
+
 run -> add configurations -> (under request add)
 
 "vmArgs": "--module-path ~/JAVA/javafx-sdk-17.0.2/lib --add-modules javafx.controls,javafx.fxml",
 
 java project -> on the bottom -> referenced libraries -> select all files in lib folder
+
+
+IntelliJ:
+File -> Project Structure -> Libraries -> add

@@ -1,0 +1,1 @@
+after pom.xml config -> project structure -> artifact -> jar -> on the bottom (dependencies..) from src/main/java to src/main/resources
